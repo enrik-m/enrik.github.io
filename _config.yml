@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://enrik.github.io"
 
 github:
-  username: Crackerinho # change to your GitHub username
+  username: enrik-m # change to your GitHub username
 
 twitter:
   username: # change to your Twitter username
@@ -34,10 +34,10 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: crackerinho
+  name: enrik-m
   email: # change to your email address
   links:
-    - https://github.com/Crackerinho
+    - https://github.com/enrik-m
 
 # Site Verification Settings
 webmaster_verifications:
